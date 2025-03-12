@@ -1,0 +1,23 @@
+
+body {
+    background: linear-gradient(to right, black, silver);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+h1 {
+    font-size: 8.5rem;
+}
+
+.container {
+    text-align: center;
+    color: white;
+}
+
+.heart {
+    font-size: 100px;
+    cursor: pointer;
+}
